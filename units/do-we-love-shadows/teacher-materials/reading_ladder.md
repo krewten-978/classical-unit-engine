@@ -36,7 +36,7 @@
 
 ### 5. John Henry Newman — Knowledge Its Own End
 
-- **Text:** *The Idea of a University*, Discourse V, adapted selections
+- **Text:** *The Idea of a University*, Discourse V, focused passages on liberal knowledge and intellectual cultivation
 - **Student question:** Is education valuable even when it is not immediately useful?
 - **Unit function:** Concludes by defending liberal learning as freedom and formation of mind.
 - **Student product:** Utility vs. liberation comparison, seminar claim, final paper preparation.

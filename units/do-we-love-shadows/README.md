@@ -29,7 +29,8 @@ units/do-we-love-shadows/
     03_augustine_divided_will_handout.pdf
     04_douglass_literacy_liberation_handout.tex
     04_douglass_literacy_liberation_handout.pdf
-    05_newman_knowledge_its_own_end.md
+    05_newman_knowledge_its_own_end_handout.tex
+    05_newman_knowledge_its_own_end_handout.pdf
   assessments/
     final_argument_paper_prompt.md
   source-notes/
@@ -56,4 +57,4 @@ Each student packet includes:
 
 ## Current format
 
-The first four student readings have been rebuilt as printable two-column, 12pt LaTeX/PDF handouts. The Newman packet remains in Markdown until it is rebuilt in the same handout format.
+All five student readings have been rebuilt as printable two-column, 12pt LaTeX/PDF handouts.

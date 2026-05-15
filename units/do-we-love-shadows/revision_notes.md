@@ -87,3 +87,7 @@ Reading 3 was rebuilt as `student-packets/03_augustine_divided_will_handout.tex`
 ## Douglass rebuild
 
 Reading 4 was rebuilt as `student-packets/04_douglass_literacy_liberation_handout.tex` and compiled to `student-packets/04_douglass_literacy_liberation_handout.pdf`. It uses a focused modernized excerpt from Douglass's *Narrative*, chapters VI–VII, centered on literacy, power, and painful awakening.
+
+## Newman rebuild
+
+Reading 5 was rebuilt as `student-packets/05_newman_knowledge_its_own_end_handout.tex` and compiled to `student-packets/05_newman_knowledge_its_own_end_handout.pdf`. It uses the approved long-work strategy: focused modernized passages from *The Idea of a University*, Discourse V, centered on liberal knowledge, utility, intellectual cultivation, and the philosophical habit of mind.

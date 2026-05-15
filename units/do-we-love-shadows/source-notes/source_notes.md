@@ -31,7 +31,7 @@ These notes identify the source base for the student-facing adapted readings.
 
 - **Work:** *The Idea of a University*, Discourse V, “Knowledge Its Own End.”
 - **Use in unit:** Liberal education as cultivation and freedom of mind beyond utility.
-- **Student packet mode:** Modernized prose adaptation.
+- **Student packet mode:** Focused long-work excerpt strategy using modernized passages from Discourse V on the unity of knowledge, the philosophical habit of mind, knowledge as its own end, and intellectual cultivation.
 
 ## Adaptation principle
 
