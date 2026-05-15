@@ -64,3 +64,26 @@ Rebuild the first handout, Plato's Cave, as the model correction:
 3. Produce `.tex` and compiled `.pdf` in two-column academic style.
 4. Preserve the successful end-exercise pattern.
 5. After Wayne approves the model, rebuild Bacon, then decide Augustine/Newman excerpt strategies.
+
+## Long-work handout rule added after Plato approval
+
+Wayne approved this working rule for longer works:
+
+- For short works, use the full work or coherent passage in faithful modernized form.
+- For novel-sized or treatise-sized works, use a relevant chapter, scene, book, or passage rather than compressing the whole work.
+- If the whole work is necessary, divide it into separate handouts by chapter or coherent section.
+- For a long work where students need prior context, give a brief student-facing summary of necessary front material, then include at least several pages of the real focused text.
+- Avoid ``summary plus tiny excerpt'' unless there is a special reason; students should encounter a substantial passage.
+- Window notes should finish with a short summary of the handout.
+
+## Bacon rebuild
+
+Reading 2 was rebuilt as `student-packets/02_bacon_four_idols_handout.tex` and compiled to `student-packets/02_bacon_four_idols_handout.pdf`, using Bacon's *Novum Organum* I.38–44 in faithful modernized form.
+
+## Augustine rebuild
+
+Reading 3 was rebuilt as `student-packets/03_augustine_divided_will_handout.tex` and compiled to `student-packets/03_augustine_divided_will_handout.pdf`. It uses the approved long-work strategy: brief front-context summary, then a focused modernized excerpt from *Confessions* Book VIII, chapters 7, 9, 11, and 12.
+
+## Douglass rebuild
+
+Reading 4 was rebuilt as `student-packets/04_douglass_literacy_liberation_handout.tex` and compiled to `student-packets/04_douglass_literacy_liberation_handout.pdf`. It uses a focused modernized excerpt from Douglass's *Narrative*, chapters VI–VII, centered on literacy, power, and painful awakening.

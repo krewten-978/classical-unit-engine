@@ -20,9 +20,9 @@
 - **Unit function:** Gives names for mental distortions: tribe, cave, marketplace, theater.
 - **Student product:** Idol classification, four-pane window note, Plato connection paragraph.
 
-### 3. Augustine — Disordered Love
+### 3. Augustine — The Divided Will
 
-- **Text:** *Confessions*, adapted selections on restless desire, praise, ambition, and conversion
+- **Text:** *Confessions*, Book VIII, selected chapters from the garden crisis
 - **Student question:** What if we resist truth because we love the wrong things?
 - **Unit function:** Moves from intellectual error to moral and spiritual disorder.
 - **Student product:** Loves inventory, inner-conflict dialogue, claim paragraph.

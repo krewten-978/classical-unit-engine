@@ -13,19 +13,19 @@ These notes identify the source base for the student-facing adapted readings.
 
 - **Work:** *Novum Organum*, Book I, especially Aphorisms 38–44 and nearby aphorisms on idols.
 - **Use in unit:** Diagnostic framework for mental distortion.
-- **Student packet mode:** Modernized prose adaptation organized around the Four Idols.
+- **Student packet mode:** Faithful modernized version of Aphorisms 38–44, preserving Bacon's sequence and fourfold structure.
 
 ## Augustine
 
-- **Work:** *Confessions*, especially Books I, II, VIII, and X.
-- **Use in unit:** Disordered love, restless heart, praise, habit, resistance to conversion.
-- **Student packet mode:** Synthetic modernized adaptation drawing together Augustinian themes.
+- **Work:** *Confessions*, Book VIII, chapters 7, 9, 11, and 12.
+- **Use in unit:** Divided will, disordered love, habit as bondage, and resistance to conversion.
+- **Student packet mode:** Long-work excerpt strategy: brief front-context summary followed by a faithful modernized version of Augustine's focused garden crisis.
 
 ## Frederick Douglass
 
-- **Work:** *Narrative of the Life of Frederick Douglass, an American Slave*, especially Chapter VI and related literacy passages.
+- **Work:** *Narrative of the Life of Frederick Douglass, an American Slave*, chapters VI–VII.
 - **Use in unit:** Literacy as awakening; ignorance enforced by power.
-- **Student packet mode:** Modernized prose adaptation preserving the sequence of Douglass's literacy episode.
+- **Student packet mode:** Focused long-work excerpt using Sophia Auld's first lessons, Hugh Auld's command to stop them, Douglass's secret education, and the painful awakening that followed.
 
 ## John Henry Newman
 

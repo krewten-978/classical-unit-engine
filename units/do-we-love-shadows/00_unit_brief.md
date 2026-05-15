@@ -32,6 +32,6 @@ Education is not merely the transfer of information. It is the difficult work of
 
 1. Plato — shadows and ascent
 2. Bacon — idols and mental distortion
-3. Augustine — disordered love
+3. Augustine — divided will and disordered love
 4. Douglass — enforced ignorance and liberation through literacy
 5. Newman — liberal knowledge and freedom of mind

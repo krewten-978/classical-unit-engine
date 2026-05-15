@@ -21,10 +21,14 @@ units/do-we-love-shadows/
     reading_ladder.md
     argument_map.md
   student-packets/
-    01_plato_cave.md
-    02_bacon_four_idols.md
-    03_augustine_disordered_love.md
-    04_douglass_literacy_liberation.md
+    01_plato_cave_handout.tex
+    01_plato_cave_handout.pdf
+    02_bacon_four_idols_handout.tex
+    02_bacon_four_idols_handout.pdf
+    03_augustine_divided_will_handout.tex
+    03_augustine_divided_will_handout.pdf
+    04_douglass_literacy_liberation_handout.tex
+    04_douglass_literacy_liberation_handout.pdf
     05_newman_knowledge_its_own_end.md
   assessments/
     final_argument_paper_prompt.md
@@ -52,4 +56,4 @@ Each student packet includes:
 
 ## Current format
 
-These are Markdown master files. They can later be converted into Wayne's printable two-column, 12pt academic handout/PDF format.
+The first four student readings have been rebuilt as printable two-column, 12pt LaTeX/PDF handouts. The Newman packet remains in Markdown until it is rebuilt in the same handout format.
