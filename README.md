@@ -40,7 +40,13 @@ CUE avoids:
 
 ## Current status
 
-This repo currently defines the CUE workflow, standards, folder structure, templates, and test-readiness checklist. It does not yet contain a built unit. The next step is to run a first test topic through the workflow.
+This repo now contains both the CUE workflow and the first built test unit:
+
+- `docs/` — principles, workflow, source discovery, conversion, argument mapping, paper prompt design, differentiation, and folder conventions.
+- `templates/` — reusable unit-folder templates and single-document templates.
+- `prompts/` — prompts for running CUE conversationally.
+- `checklists/` — readiness checklist.
+- `units/do-we-love-shadows/` — first completed CUE unit: teacher guide, five student packets, argument map, and final paper prompt.
 
 ## Repository map
 
@@ -74,6 +80,25 @@ prompts/
 
 checklists/
   ready-for-test.md
+
+units/
+  do-we-love-shadows/
+    README.md
+    00_unit_brief.md
+    teacher-materials/
+      teacher_guide_whole_unit.md
+      reading_ladder.md
+      argument_map.md
+    student-packets/
+      01_plato_cave.md
+      02_bacon_four_idols.md
+      03_augustine_disordered_love.md
+      04_douglass_literacy_liberation.md
+      05_newman_knowledge_its_own_end.md
+    assessments/
+      final_argument_paper_prompt.md
+    source-notes/
+      source_notes.md
 ```
 
 ## How to use CUE conversationally
@@ -86,14 +111,17 @@ Use phrases like:
 - “Build the argument map before we write the paper prompt.”
 - “Do not build the unit yet; just prepare the source packet.”
 
-## Recommended first test
+## Built test unit
 
-For the first real test, choose one of these:
+The first built CUE test is `units/do-we-love-shadows/`.
 
-1. a central question, such as “Are human beings free?”
-2. a literary work, such as Macbeth or Antigone
-3. a thinker pair, such as Hobbes versus Aristotle
-4. a historical question, such as “Was rebellion against a ruler ever justified?”
-5. a passage you already use and want converted into a CUE handout
+Use it to inspect:
 
-The test should be narrow enough to complete one CUE cycle and rich enough to show whether the workflow actually helps.
+- how a unit folder is organized
+- how teacher-facing and student-facing materials are separated
+- how the five-reading ladder becomes student packets
+- how end exercises vary by text while still producing serious student work
+
+## Recommended next test
+
+After reviewing this unit, the next useful CUE test would be a year-level scope and sequence that weaves philosophy, literature, and history across Wayne's classes.
