@@ -30,6 +30,8 @@ units/do-we-love-shadows/
     03_bacon_four_idols_handout.pdf
     04_augustine_divided_will_handout.tex
     04_augustine_divided_will_handout.pdf
+    05_kant_enlightenment_courage_handout.tex
+    05_kant_enlightenment_courage_handout.pdf
   assessments/
     final_argument_paper_prompt.md
   source-notes/
@@ -51,6 +53,7 @@ units/do-we-love-shadows/
 - **Reading 2:** Homer, the Sirens — `student-packets/02_homer_sirens_handout.pdf`
 - **Reading 3:** Bacon, the Four Idols — `student-packets/03_bacon_four_idols_handout.pdf`
 - **Reading 4:** Augustine, the Divided Will — `student-packets/04_augustine_divided_will_handout.pdf`
+- **Reading 5:** Kant, Enlightenment and Courage — `student-packets/05_kant_enlightenment_courage_handout.pdf`
 
 Legacy packets from the earlier Bacon-Augustine-Douglass-Newman sequence have been removed from this unit folder so the active sequence is clear.
 

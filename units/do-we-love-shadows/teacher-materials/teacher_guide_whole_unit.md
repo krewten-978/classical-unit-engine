@@ -70,7 +70,7 @@ The unit begins with Plato's cave as the controlling philosophical image. Homer 
 - **Problem:** Immaturity may be self-chosen because it is comfortable to let others think for us.
 - **Student question:** Do people remain in shadows because thinking for oneself requires courage?
 - **Student product:** Obstacle map and enlightenment claim.
-- **Status:** Not yet built.
+- **Status:** Built as `student-packets/05_kant_enlightenment_courage_handout.pdf`.
 
 ### Reading 6: Friedrich Nietzsche — Truth and Metaphor
 - **Text:** “On Truth and Lies in a Nonmoral Sense.”
@@ -161,9 +161,9 @@ This unit should use short printable documents or coherent excerpts. Avoid assig
 - Homer: focused modernized Sirens episode from *Odyssey* XII.
 - Bacon: short modernized Four Idols packet.
 - Augustine: selected modernized passages from *Confessions*.
-- Kant: likely full short essay or coherent excerpts from “What Is Enlightenment?” depending on handout length.
+- Kant: focused modernized version of “What Is Enlightenment?” preserving the definition of enlightenment, guardians, public/private use of reason, and freedom.
 - Nietzsche: focused excerpts from “On Truth and Lies in a Nonmoral Sense,” with careful support.
 
 ## Recommended Next Production Step
 
-Next production steps: build Reading 5 Kant and Reading 6 Nietzsche, then do a final pass on the argument map and paper prompt.
+Next production step: build Reading 6 Nietzsche, then do a final pass on the argument map and paper prompt.

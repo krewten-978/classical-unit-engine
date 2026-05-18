@@ -44,7 +44,7 @@
 - **Student question:** Do people remain in immaturity because it is comfortable?
 - **Unit function:** Adds the post-1700 challenge: truth requires courage, responsibility, and the willingness to use one's own reason.
 - **Student product:** Enlightenment claim, obstacle map, comparison with Plato's cave and Odysseus's self-binding.
-- **Build status:** Not yet built.
+- **Build status:** Complete as `student-packets/05_kant_enlightenment_courage_handout.pdf`.
 
 ### 6. Friedrich Nietzsche — Truth and Metaphor
 

@@ -37,7 +37,9 @@ These notes identify the source base for the student-facing adapted readings.
 
 - **Work:** “An Answer to the Question: What Is Enlightenment?”
 - **Use in unit:** Post-1700 challenge: immaturity can be comfortable and self-chosen; enlightenment requires courage to use one's own reason.
-- **Student packet mode:** Not yet built. Likely use the full short essay if length permits, or a coherent focused excerpt preserving Kant's opening argument about immaturity, guardians, courage, and public reason.
+- **Student packet mode:** Focused modernized version preserving Kant's definition of enlightenment, the problem of guardians, the public/private use of reason distinction, and the claim that enlightenment requires freedom.
+- **Source checked:** Internet Modern History Sourcebook, “Immanuel Kant: What is Enlightenment?” and LibreTexts public-domain page.
+- **Current packet:** `student-packets/05_kant_enlightenment_courage_handout.tex` and `.pdf`.
 
 ## Friedrich Nietzsche
 
