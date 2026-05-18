@@ -42,4 +42,5 @@ Education is not merely the transfer of information. It is the difficult work of
 - Reading 1, Plato's Cave, is built as `.tex` and `.pdf`.
 - Reading 2, Homer's Sirens, is built as `.tex` and `.pdf`.
 - Reading 3, Bacon's Four Idols, is built as `.tex` and `.pdf`.
-- The remaining readings should be revised one at a time after Wayne reviews the Plato-Homer-Bacon opening.
+- Reading 4, Augustine's Divided Will, is built as `.tex` and `.pdf`.
+- Remaining unbuilt readings: Reading 5 Kant and Reading 6 Nietzsche.

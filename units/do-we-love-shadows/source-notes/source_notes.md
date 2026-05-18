@@ -25,14 +25,13 @@ These notes identify the source base for the student-facing adapted readings.
 - **Use in unit:** Diagnostic framework for mental distortion.
 - **Student packet mode:** Faithful modernized version of Aphorisms 38–44, preserving Bacon's sequence and fourfold structure.
 - **Current packet:** `student-packets/03_bacon_four_idols_handout.tex` and `.pdf`.
-- **Legacy packet:** `student-packets/02_bacon_four_idols_handout.tex` and `.pdf` remain from the previous five-reading sequence.
 
 ## Augustine
 
 - **Work:** *Confessions*, Book VIII, chapters 7, 9, 11, and 12.
 - **Use in unit:** Divided will, disordered love, habit as bondage, and resistance to conversion.
 - **Student packet mode:** Long-work excerpt strategy: brief front-context summary followed by a faithful modernized version of Augustine's focused garden crisis.
-- **Status:** Previous-sequence packet exists as `student-packets/03_augustine_divided_will_handout.tex` and `.pdf`; revise/renumber if kept.
+- **Current packet:** `student-packets/04_augustine_divided_will_handout.tex` and `.pdf`.
 
 ## Immanuel Kant
 
@@ -45,22 +44,6 @@ These notes identify the source base for the student-facing adapted readings.
 - **Work:** “On Truth and Lies in a Nonmoral Sense”
 - **Use in unit:** Modern complication: what human beings call truth may be metaphor, convention, and image-making forgotten as such.
 - **Student packet mode:** Not yet built. Use focused excerpts with strong vocabulary and context support.
-
-## Legacy source notes from previous sequence
-
-## Frederick Douglass
-
-- **Work:** *Narrative of the Life of Frederick Douglass, an American Slave*, chapters VI–VII.
-- **Previous use in unit:** Literacy as awakening; ignorance enforced by power.
-- **Student packet mode:** Focused long-work excerpt using Sophia Auld's first lessons, Hugh Auld's command to stop them, Douglass's secret education, and the painful awakening that followed.
-- **Status:** Previous-sequence packet remains in the repository but is not currently listed in the active revised ladder.
-
-## John Henry Newman
-
-- **Work:** *The Idea of a University*, Discourse V, “Knowledge Its Own End.”
-- **Previous use in unit:** Liberal education as cultivation and freedom of mind beyond utility.
-- **Student packet mode:** Focused long-work excerpt strategy using modernized passages from Discourse V on the unity of knowledge, the philosophical habit of mind, knowledge as its own end, and intellectual cultivation.
-- **Status:** Previous-sequence packet remains in the repository but is not currently listed in the active revised ladder.
 
 ## Adaptation principle
 

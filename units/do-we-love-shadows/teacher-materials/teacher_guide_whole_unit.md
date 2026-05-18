@@ -8,7 +8,7 @@ This unit is being revised from the earlier five-reading CUE model into the newe
 1. Plato's Cave
 2. Homer's Sirens
 
-The older Bacon, Augustine, Douglass, and Newman packets remain in the repository as previous-sequence materials until Wayne decides how much of that earlier build should be retained, renumbered, or replaced.
+Legacy packets from the earlier Bacon-Augustine-Douglass-Newman sequence have been removed from this unit folder so the active revised sequence is clear.
 
 This guide is teacher-facing. Student-facing documents should not include these notes unless intentionally converted into classroom language.
 
@@ -62,7 +62,7 @@ The unit begins with Plato's cave as the controlling philosophical image. Homer 
 - **Problem:** A person may know better but love praise, pleasure, comfort, or self more than truth.
 - **Student question:** What if the deepest shadows are things we love?
 - **Student product:** Loves inventory, inner-conflict dialogue, argument paragraph.
-- **Status:** Previous-sequence packet exists; revise and renumber if kept.
+- **Status:** Built as `student-packets/04_augustine_divided_will_handout.pdf`.
 
 ### Reading 5: Immanuel Kant — Enlightenment and Courage
 - **Text:** “What Is Enlightenment?”
@@ -166,4 +166,4 @@ This unit should use short printable documents or coherent excerpts. Avoid assig
 
 ## Recommended Next Production Step
 
-After Wayne reviews the Bacon packet, decide whether Reading 4 should remain Augustine, or whether the scope-and-sequence's Lucretius passage should be inserted before Augustine.
+Next production steps: build Reading 5 Kant and Reading 6 Nietzsche, then do a final pass on the argument map and paper prompt.

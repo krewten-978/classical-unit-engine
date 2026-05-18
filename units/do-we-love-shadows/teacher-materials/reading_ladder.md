@@ -36,7 +36,7 @@
 - **Student question:** What if we resist truth because we love the wrong things?
 - **Unit function:** Moves from intellectual error and beautiful temptation to moral and spiritual disorder.
 - **Student product:** Loves inventory, inner-conflict dialogue, claim paragraph.
-- **Build status:** Previous-sequence packet exists as `03_augustine_divided_will_handout.pdf`; revise/renumber later if kept.
+- **Build status:** Complete as `student-packets/04_augustine_divided_will_handout.pdf`.
 
 ### 5. Immanuel Kant — Enlightenment and Courage
 
