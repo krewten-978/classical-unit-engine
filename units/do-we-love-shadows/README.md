@@ -26,10 +26,12 @@ units/do-we-love-shadows/
     01_plato_cave_handout.pdf
     02_homer_sirens_handout.tex
     02_homer_sirens_handout.pdf
+    03_bacon_four_idols_handout.tex
+    03_bacon_four_idols_handout.pdf
     02_bacon_four_idols_handout.tex          # legacy/previous sequence packet
     02_bacon_four_idols_handout.pdf          # legacy/previous sequence packet
-    03_augustine_divided_will_handout.tex    # legacy/previous sequence packet
-    03_augustine_divided_will_handout.pdf    # legacy/previous sequence packet
+    03_augustine_divided_will_handout.tex    # legacy/previous sequence packet; filename conflicts with new numbering only by author
+    03_augustine_divided_will_handout.pdf    # legacy/previous sequence packet; filename conflicts with new numbering only by author
     04_douglass_literacy_liberation_handout.tex # legacy/previous sequence packet
     04_douglass_literacy_liberation_handout.pdf # legacy/previous sequence packet
     05_newman_knowledge_its_own_end_handout.tex # legacy/previous sequence packet
@@ -53,8 +55,9 @@ units/do-we-love-shadows/
 
 - **Reading 1:** Plato, Allegory of the Cave — `student-packets/01_plato_cave_handout.pdf`
 - **Reading 2:** Homer, the Sirens — `student-packets/02_homer_sirens_handout.pdf`
+- **Reading 3:** Bacon, the Four Idols — `student-packets/03_bacon_four_idols_handout.pdf`
 
-The older Bacon, Augustine, Douglass, and Newman packets remain in the repository as previous-sequence materials until Wayne decides whether to revise, renumber, archive, or replace them.
+The older Augustine, Douglass, and Newman packets remain in the repository as previous-sequence materials until Wayne decides whether to revise, renumber, archive, or replace them. The older Bacon Reading 2 files also remain as legacy copies, but the active Bacon packet is now Reading 3.
 
 ## Classroom shape
 

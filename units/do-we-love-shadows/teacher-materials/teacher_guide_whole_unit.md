@@ -54,7 +54,7 @@ The unit begins with Plato's cave as the controlling philosophical image. Homer 
 - **Problem:** The mind is distorted by human nature, personal bias, language, and inherited systems.
 - **Student question:** Where do our shadows come from?
 - **Student product:** Idol classification and Plato/Homer connection paragraph.
-- **Status:** Previous-sequence packet exists; revise and renumber if kept.
+- **Status:** Built as `student-packets/03_bacon_four_idols_handout.pdf`.
 
 ### Reading 4: Augustine — Loving the Wrong Things
 - **Text:** Augustine, *Confessions*, focused selections on divided will, habit, and conversion.
@@ -166,4 +166,4 @@ This unit should use short printable documents or coherent excerpts. Avoid assig
 
 ## Recommended Next Production Step
 
-After Wayne reviews the Homer packet, decide whether Reading 3 should be Bacon as already planned, or whether the scope-and-sequence's Lucretius passage should be inserted before Bacon.
+After Wayne reviews the Bacon packet, decide whether Reading 4 should remain Augustine, or whether the scope-and-sequence's Lucretius passage should be inserted before Augustine.

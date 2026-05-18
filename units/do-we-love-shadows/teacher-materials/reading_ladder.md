@@ -28,7 +28,7 @@
 - **Student question:** Where do the shadows come from?
 - **Unit function:** Gives names for mental distortions: tribe, cave, marketplace, theater.
 - **Student product:** Idol classification, four-pane window note, Plato/Homer connection paragraph.
-- **Build status:** Previous-sequence packet exists as `02_bacon_four_idols_handout.pdf`; revise/renumber after Wayne approves the new opening.
+- **Build status:** Complete as `student-packets/03_bacon_four_idols_handout.pdf`.
 
 ### 4. Augustine — The Divided Will
 

@@ -24,7 +24,8 @@ These notes identify the source base for the student-facing adapted readings.
 - **Work:** *Novum Organum*, Book I, especially Aphorisms 38–44 and nearby aphorisms on idols.
 - **Use in unit:** Diagnostic framework for mental distortion.
 - **Student packet mode:** Faithful modernized version of Aphorisms 38–44, preserving Bacon's sequence and fourfold structure.
-- **Status:** Previous-sequence packet exists as `student-packets/02_bacon_four_idols_handout.tex` and `.pdf`; revise/renumber if kept in the new sequence.
+- **Current packet:** `student-packets/03_bacon_four_idols_handout.tex` and `.pdf`.
+- **Legacy packet:** `student-packets/02_bacon_four_idols_handout.tex` and `.pdf` remain from the previous five-reading sequence.
 
 ## Augustine
 

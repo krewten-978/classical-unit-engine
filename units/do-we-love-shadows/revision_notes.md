@@ -97,3 +97,9 @@ Reading 5 was rebuilt as `student-packets/05_newman_knowledge_its_own_end_handou
 Wayne confirmed that Homer's Sirens should work inside the revised `Do We Love Shadows?` unit. The active opening is now Plato's Cave followed by Homer, *Odyssey* Book XII, the Sirens. The teacher guide, unit brief, reading ladder, argument map, source notes, README, and final paper prompt were revised to reflect the new design. The older Bacon/Augustine/Douglass/Newman packets remain in the repo as previous-sequence materials until Wayne decides whether to revise, renumber, archive, or replace them.
 
 New packet built: `student-packets/02_homer_sirens_handout.tex` and `student-packets/02_homer_sirens_handout.pdf`.
+
+## Bacon renumbered and revised as Reading 3
+
+The next active packet is now Bacon's Four Idols as Reading 3, revised to follow Plato and Homer rather than Plato alone. The packet connects Bacon's idols both to the cave and to the Sirens as dangerous, knowledge-shaped attraction. Support materials were updated to mark Bacon complete in the revised sequence.
+
+New active packet built: `student-packets/03_bacon_four_idols_handout.tex` and `student-packets/03_bacon_four_idols_handout.pdf`. The older `02_bacon_four_idols_handout.*` files remain as legacy copies from the previous sequence.
