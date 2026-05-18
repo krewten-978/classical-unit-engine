@@ -3,44 +3,48 @@
 
 ### Central question
 
-**If truth is good for us, why do people resist it?**
+**Do human beings really want truth, or do we prefer comforting shadows?**
 
-### Student-facing question
+### Supporting question
 
-**Why do people sometimes love shadows more than truth?**
+**If truth is good for us, why do people resist it, distort it, or become attracted to beautiful illusions?**
 
 ## Task
 
-Write an argument paper answering the central question of the unit. Your paper must defend a clear position about why people resist truth and what education must do in response.
+Write an argument paper answering the central question of the unit. Your paper must defend a clear position about why people cling to shadows and what education must do in response.
 
 You must use evidence from at least **two** unit readings and respond to at least **one** serious opposing view.
 
-## Unit readings
+## Current unit readings
 
 - Plato, *Republic*, Allegory of the Cave
+- Homer, *Odyssey*, the Sirens
 - Francis Bacon, *Novum Organum*, Four Idols
 - Augustine, *Confessions*
-- Frederick Douglass, *Narrative of the Life of Frederick Douglass*
-- John Henry Newman, *The Idea of a University*
+- Immanuel Kant, “What Is Enlightenment?”
+- Friedrich Nietzsche, “On Truth and Lies in a Nonmoral Sense”
 
 ## Possible positions
 
 You may defend one of these positions or develop your own.
 
 1. **People resist truth because truth is painful.**
-   - Good texts: Plato, Douglass, Augustine
+   - Good texts: Plato, Augustine, Kant
 
-2. **People resist truth because their minds are distorted.**
-   - Good texts: Bacon, Plato, Newman
+2. **People are drawn toward shadows because some illusions are beautiful and seem wise.**
+   - Good texts: Homer, Plato, Augustine
 
-3. **People resist truth because they love the wrong things.**
-   - Good texts: Augustine, Plato
+3. **People resist truth because their minds are distorted.**
+   - Good texts: Bacon, Plato, Nietzsche
 
-4. **People resist truth because someone benefits from keeping them ignorant.**
-   - Good texts: Douglass, Plato, Bacon
+4. **People remain in shadows because immaturity is easier than courageous thought.**
+   - Good texts: Kant, Plato, Homer
 
-5. **Education can free people from shadows only if it forms the whole person.**
-   - Good texts: Newman, Plato, Augustine, Douglass
+5. **People may call their own useful metaphors “truth.”**
+   - Good texts: Nietzsche, Plato, Bacon
+
+6. **Education can free people from shadows only if it forms the whole person: mind, desire, courage, and judgment.**
+   - Good texts: Plato, Homer, Augustine, Kant
 
 ## Requirements
 
@@ -81,9 +85,10 @@ Return to the question of education: if your answer is true, what should educati
 
 ## Thesis frames
 
-- People often resist truth because __________; therefore, education must __________.
+- People often prefer shadows because __________; therefore, education must __________.
 - Although __________ is one reason people cling to shadows, the deeper reason is __________.
 - Plato and __________ show that education is difficult because __________.
+- Homer shows that shadows are dangerous because __________, while Plato shows that __________.
 - The strongest answer to the unit question comes from __________ because __________.
 
 ## Evidence reminders
@@ -91,10 +96,12 @@ Return to the question of education: if your answer is true, what should educati
 Strong evidence can include:
 
 - a specific moment from Plato's cave
+- the Sirens' promise that Odysseus will become wiser
+- Odysseus needing to be bound more tightly when he wants release
 - one of Bacon's four idols
 - Augustine's struggle with praise, habit, or disordered love
-- Douglass's master's fear of literacy
-- Newman's defense of liberal knowledge
+- Kant's claim about laziness, cowardice, guardians, or public reason
+- Nietzsche's claim about truth and metaphor
 
 ## Counterargument reminders
 
@@ -102,10 +109,11 @@ A strong counterargument is not silly or weak. It should sound like something an
 
 Examples:
 
-- Maybe ignorance is mostly caused by lack of access, not love of shadows.
-- Maybe practical education is more important than liberal education.
-- Maybe people resist truth because of mental distortion, not moral failure.
-- Maybe pain is not the main issue; power is.
+- Maybe people resist truth mostly because it hurts, not because it is beautiful.
+- Maybe the Sirens are just temptation, not a serious image of false truth.
+- Maybe mental distortion matters more than desire.
+- Maybe courage matters more than intelligence.
+- Maybe Nietzsche makes it too hard to speak confidently about truth at all.
 
 ## Final question for conclusion
 

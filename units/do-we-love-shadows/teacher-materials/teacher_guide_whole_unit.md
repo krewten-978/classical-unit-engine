@@ -3,75 +3,93 @@
 
 ## Unit Status
 
-This is the lean five-reading version of the Classical Unit Engine unit.
+This unit is being revised from the earlier five-reading CUE model into the newer scope-and-sequence design. The active opening is now:
+
+1. Plato's Cave
+2. Homer's Sirens
+
+The older Bacon, Augustine, Douglass, and Newman packets remain in the repository as previous-sequence materials until Wayne decides how much of that earlier build should be retained, renumbered, or replaced.
 
 This guide is teacher-facing. Student-facing documents should not include these notes unless intentionally converted into classroom language.
 
 ## Core Unit Question
 
-**If truth is good for us, why do people resist it?**
+**Do human beings really want truth, or do we prefer comforting shadows?**
 
-## Student-Facing Unit Question
+## Supporting Teacher Question
 
-**Why do people sometimes love shadows more than truth?**
+**If truth is good for us, why do people resist it, distort it, or become attracted to beautiful illusions?**
 
 ## Unit Thesis
 
-Education is not only the transfer of information. It is the difficult work of turning the mind, habits, loves, and imagination away from comfortable illusions and toward truth.
+Education is not only the transfer of information. It is the difficult work of turning the mind, habits, loves, imagination, and judgment away from comfortable or beautiful illusions and toward truth.
 
 ## Why This Unit Comes First
 
-This unit introduces students to the purpose of classical education before asking them to enter more difficult texts later in the year. It gives them a shared vocabulary for illusion, truth, habit, desire, rhetoric, power, and liberal learning.
+This unit introduces students to the purpose of classical education before asking them to enter more difficult texts later in the year. It gives them a shared vocabulary for illusion, truth, desire, self-command, habit, rhetoric, courage, and intellectual responsibility.
 
-The unit begins with Plato's image of the cave and then asks students to test that image through other sources. Students will consider whether we resist truth because of ignorance, mental distortion, disordered love, social power, or narrow ideas of usefulness.
+The unit begins with Plato's cave as the controlling philosophical image. Homer follows immediately because the Sirens dramatize a different kind of shadow: not mere ignorance, but a beautiful and knowledge-shaped temptation. Odysseus wants to hear what he knows may destroy him. That makes the Sirens an ideal first literary test of the unit's question.
 
-## Lean Five-Reading Ladder
+## Revised Reading Ladder
 
 ### Reading 1: Plato — The Cave
 - **Text:** Plato, *Republic*, Book VII, Allegory of the Cave.
 - **Function:** Master image for the unit.
 - **Problem:** People mistake shadows for reality and may resist being turned toward truth.
-- **Student question:** Why might someone prefer the cave?
-- **Student product:** Window note plus short claim.
+- **Student question:** Why might someone prefer shadows to truth?
+- **Student product:** Window note, claim paragraph, handout summary.
+- **Status:** Built as `student-packets/01_plato_cave_handout.pdf`.
 
-### Reading 2: Francis Bacon — The Four Idols
+### Reading 2: Homer — The Sirens
+- **Text:** Homer, *Odyssey*, Book XII, Sirens episode.
+- **Function:** First literary illumination and test case for Plato.
+- **Problem:** Illusion can appear beautiful, intelligent, and desirable. The Sirens do not merely offer pleasure; they promise knowledge and delight.
+- **Student question:** Why does Odysseus want to hear the Sirens if he knows they are dangerous?
+- **Student product:** Three-pane Sirens window note, claim paragraph, Homer-Plato comparison seed.
+- **Status:** Built as `student-packets/02_homer_sirens_handout.pdf`.
+
+### Reading 3: Francis Bacon — The Four Idols
 - **Text:** Bacon, *Novum Organum*, Book I, selections on the idols of the mind.
 - **Function:** Diagnostic framework for false thinking.
 - **Problem:** The mind is distorted by human nature, personal bias, language, and inherited systems.
 - **Student question:** Where do our shadows come from?
-- **Student product:** Shadow inventory.
+- **Student product:** Idol classification and Plato/Homer connection paragraph.
+- **Status:** Previous-sequence packet exists; revise and renumber if kept.
 
-### Reading 3: Augustine — Loving the Wrong Things
-- **Text:** Augustine, *Confessions*, short selections on praise, ambition, restlessness, and misdirected love.
+### Reading 4: Augustine — Loving the Wrong Things
+- **Text:** Augustine, *Confessions*, focused selections on divided will, habit, and conversion.
 - **Function:** Moral and spiritual deepening.
-- **Problem:** A person may know better but love praise, success, pleasure, comfort, or self more than truth.
+- **Problem:** A person may know better but love praise, pleasure, comfort, or self more than truth.
 - **Student question:** What if the deepest shadows are things we love?
-- **Student product:** Argument paragraph on whether ignorance or disordered love is more dangerous.
+- **Student product:** Loves inventory, inner-conflict dialogue, argument paragraph.
+- **Status:** Previous-sequence packet exists; revise and renumber if kept.
 
-### Reading 4: Frederick Douglass — Literacy as Escape
-- **Text:** Douglass, *Narrative of the Life of Frederick Douglass*, literacy passage.
-- **Function:** Historical and political concreteness.
-- **Problem:** Ignorance can be enforced because power sometimes depends on keeping people in darkness.
-- **Student question:** Who benefits when people stay in the cave?
-- **Student product:** Plato-Douglass comparison paragraph.
+### Reading 5: Immanuel Kant — Enlightenment and Courage
+- **Text:** “What Is Enlightenment?”
+- **Function:** Post-1700 challenge.
+- **Problem:** Immaturity may be self-chosen because it is comfortable to let others think for us.
+- **Student question:** Do people remain in shadows because thinking for oneself requires courage?
+- **Student product:** Obstacle map and enlightenment claim.
+- **Status:** Not yet built.
 
-### Reading 5: John Henry Newman — Knowledge Beyond Usefulness
-- **Text:** Newman, *The Idea of a University*, Discourse V, “Knowledge Its Own End.”
-- **Function:** Culminating defense of liberal education.
-- **Problem:** Modern education is often reduced to utility, career, or test performance.
-- **Student question:** What kind of learning frees the mind?
-- **Student product:** Final thesis preparation.
+### Reading 6: Friedrich Nietzsche — Truth and Metaphor
+- **Text:** “On Truth and Lies in a Nonmoral Sense.”
+- **Function:** Final complication.
+- **Problem:** Nietzsche challenges students to ask whether some “truths” are human-made metaphors we have forgotten are metaphors.
+- **Student question:** What if our truths are also made images?
+- **Student product:** Final comparison map and essay preparation.
+- **Status:** Not yet built.
 
 ## Suggested Unit Arc
 
-### Beginning: Image
-Students enter Plato's cave and ask whether truth is always welcome.
+### Beginning: Image and Story
+Students enter Plato's cave and ask whether truth is always welcome. Homer then gives them a concrete story in which the danger is not ugly ignorance but beautiful, knowledge-shaped temptation.
 
-### Middle: Diagnosis
-Students use Bacon to name kinds of shadows, Augustine to explore why we may love them, and Douglass to see that shadows can be socially enforced.
+### Middle: Diagnosis and Desire
+Students use Bacon to name kinds of mental distortion and Augustine to examine why the will may cling to what it knows is not good.
 
-### End: Defense
-Students use Newman to consider whether liberal education is valuable precisely because it frees the mind beyond immediate usefulness.
+### End: Courage and Suspicion
+Students use Kant to ask whether enlightenment requires courage and Nietzsche to complicate confidence about truth itself.
 
 ## Major Concepts
 
@@ -79,54 +97,50 @@ Students use Newman to consider whether liberal education is valuable precisely 
 - illusion
 - truth
 - education
+- desire
+- temptation
+- beauty
+- knowledge
+- self-command
 - habit
 - idol
 - language
-- rhetoric
-- disordered love
-- literacy
-- power
-- utility
-- liberal education
+- courage
+- immaturity
+- metaphor
 
-## Final Argument Paper Prompt
+## Final Argument Paper Direction
 
-**Do We Love Shadows?**
+The final paper should ask students to defend a position on why human beings cling to shadows. The prompt should now allow Homer as a major evidence source, especially for arguments about beautiful temptation, curiosity, and the need for self-command.
 
-Truth is usually described as good for human beings. Yet the authors in this unit suggest that people often resist truth, mistake shadows for reality, or even love the illusions that keep them trapped.
-
-Write an argument answering this question:
-
-**If truth is good for us, why do people resist it, and what should education do about that resistance?**
-
-Use at least two unit readings. Explain one opposing view fairly and respond to it.
-
-## Possible Student Positions
+Possible student positions include:
 
 1. **Plato position:** People resist truth because illusion is familiar and truth is painful.
-2. **Bacon position:** People resist truth because the mind is distorted by idols.
-3. **Augustine position:** People resist truth because they love praise, pleasure, success, or comfort more than wisdom.
-4. **Douglass position:** People are kept from truth because power often depends on ignorance.
-5. **Newman position:** People resist truth because they reduce education to usefulness and forget the freedom of the mind.
+2. **Homer position:** People are drawn toward shadows because some illusions are beautiful and promise knowledge.
+3. **Bacon position:** People resist truth because the mind is distorted by idols.
+4. **Augustine position:** People resist truth because they love praise, pleasure, success, or comfort more than wisdom.
+5. **Kant position:** People remain in shadows because immaturity is easier than courageous thought.
+6. **Nietzsche position:** People may call their own useful metaphors “truth” and forget that they made them.
 
 ## Suggested Student Work Sequence
 
 ### After Reading 1
-Window note: cave, ascent, return.
-Short claim: Why might a prisoner resist freedom?
+Window note: cave, ascent, return. Short claim: Why might a prisoner resist truth?
 
 ### After Reading 2
-Shadow inventory: one modern example of each of Bacon's idols.
-Short claim: Which idol is hardest to see in yourself?
+Window note: promise, hidden danger, Odysseus bound to the mast. Short claim: Why does Odysseus want to hear the Sirens if he knows they are dangerous?
 
 ### After Reading 3
-Argument paragraph: Is ignorance more dangerous, or is loving the wrong thing more dangerous?
+Idol classification: identify one modern example of each of Bacon's idols. Short claim: Which idol is hardest to see in yourself?
 
 ### After Reading 4
-Comparison paragraph: How is Douglass's learning to read like leaving Plato's cave?
+Argument paragraph: Is ignorance more dangerous, or is loving the wrong thing more dangerous?
 
 ### After Reading 5
-Final thesis preparation: choose two authors and draft a thesis answering the unit question.
+Enlightenment claim: What makes it hard to use your own reason?
+
+### After Reading 6
+Final comparison map: Which author gives the strongest answer to the unit question?
 
 ## Assessment Standards
 
@@ -141,14 +155,15 @@ Student arguments should be evaluated for:
 
 ## Notes on Reading Mode
 
-This unit should use short printable documents. Avoid long works as assigned reading. Each student-facing reading should be a compact excerpt or modernized source packet, ideally 1–3 printed pages.
+This unit should use short printable documents or coherent excerpts. Avoid assigning whole long works when a focused passage will do the intellectual work.
 
 - Plato: modernized prose from *Republic* VII, with source note.
+- Homer: focused modernized Sirens episode from *Odyssey* XII.
 - Bacon: short modernized Four Idols packet.
 - Augustine: selected modernized passages from *Confessions*.
-- Douglass: faithful excerpt, lightly supported.
-- Newman: short excerpt with modernization and vocabulary support.
+- Kant: likely full short essay or coherent excerpts from “What Is Enlightenment?” depending on handout length.
+- Nietzsche: focused excerpts from “On Truth and Lies in a Nonmoral Sense,” with careful support.
 
 ## Recommended Next Production Step
 
-After reviewing this whole-unit guide and the first student-facing Plato packet, the next build should be the student-facing Bacon packet.
+After Wayne reviews the Homer packet, decide whether Reading 3 should be Bacon as already planned, or whether the scope-and-sequence's Lucretius passage should be inserted before Bacon.

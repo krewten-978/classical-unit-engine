@@ -91,3 +91,9 @@ Reading 4 was rebuilt as `student-packets/04_douglass_literacy_liberation_handou
 ## Newman rebuild
 
 Reading 5 was rebuilt as `student-packets/05_newman_knowledge_its_own_end_handout.tex` and compiled to `student-packets/05_newman_knowledge_its_own_end_handout.pdf`. It uses the approved long-work strategy: focused modernized passages from *The Idea of a University*, Discourse V, centered on liberal knowledge, utility, intellectual cultivation, and the philosophical habit of mind.
+
+## Scope-and-sequence redesign: Homer inserted as Reading 2
+
+Wayne confirmed that Homer's Sirens should work inside the revised `Do We Love Shadows?` unit. The active opening is now Plato's Cave followed by Homer, *Odyssey* Book XII, the Sirens. The teacher guide, unit brief, reading ladder, argument map, source notes, README, and final paper prompt were revised to reflect the new design. The older Bacon/Augustine/Douglass/Newman packets remain in the repo as previous-sequence materials until Wayne decides whether to revise, renumber, archive, or replace them.
+
+New packet built: `student-packets/02_homer_sirens_handout.tex` and `student-packets/02_homer_sirens_handout.pdf`.

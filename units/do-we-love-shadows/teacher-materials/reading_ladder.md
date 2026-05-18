@@ -2,51 +2,65 @@
 
 ## Core question
 
-**If truth is good for us, why do people resist it?**
+**Do human beings really want truth, or do we prefer comforting shadows?**
 
-## Lean five-reading sequence
+## Revised sequence
 
 ### 1. Plato — The Cave
 
 - **Text:** *Republic*, Book VII, Allegory of the Cave
 - **Student question:** Why might someone prefer shadows to truth?
 - **Unit function:** Gives the controlling image for the whole unit: shadows, chains, pain of ascent, return to the cave.
-- **Student product:** Three-pane window note and claim paragraph.
+- **Student product:** Three-pane window note, claim paragraph, handout summary.
+- **Build status:** Complete as `student-packets/01_plato_cave_handout.pdf`.
 
-### 2. Francis Bacon — The Four Idols
+### 2. Homer — The Sirens
+
+- **Text:** *Odyssey*, Book XII, Sirens episode
+- **Student question:** Why does Odysseus want to hear the Sirens if he knows they are dangerous?
+- **Unit function:** Tests Plato's image through story. The Sirens show that illusion may appear not as obvious ignorance but as beauty, delight, curiosity, and promised wisdom.
+- **Student product:** Sirens window note, claim paragraph, Homer-Plato comparison seed.
+- **Build status:** Complete as `student-packets/02_homer_sirens_handout.pdf`.
+
+### 3. Francis Bacon — The Four Idols
 
 - **Text:** *Novum Organum*, Book I, selections on the idols
 - **Student question:** Where do the shadows come from?
 - **Unit function:** Gives names for mental distortions: tribe, cave, marketplace, theater.
-- **Student product:** Idol classification, four-pane window note, Plato connection paragraph.
+- **Student product:** Idol classification, four-pane window note, Plato/Homer connection paragraph.
+- **Build status:** Previous-sequence packet exists as `02_bacon_four_idols_handout.pdf`; revise/renumber after Wayne approves the new opening.
 
-### 3. Augustine — The Divided Will
+### 4. Augustine — The Divided Will
 
 - **Text:** *Confessions*, Book VIII, selected chapters from the garden crisis
 - **Student question:** What if we resist truth because we love the wrong things?
-- **Unit function:** Moves from intellectual error to moral and spiritual disorder.
+- **Unit function:** Moves from intellectual error and beautiful temptation to moral and spiritual disorder.
 - **Student product:** Loves inventory, inner-conflict dialogue, claim paragraph.
+- **Build status:** Previous-sequence packet exists as `03_augustine_divided_will_handout.pdf`; revise/renumber later if kept.
 
-### 4. Frederick Douglass — Literacy and Liberation
+### 5. Immanuel Kant — Enlightenment and Courage
 
-- **Text:** *Narrative of the Life of Frederick Douglass*, chapter on learning to read and write
-- **Student question:** Why would someone in power want others kept in darkness?
-- **Unit function:** Makes the cave social and political: ignorance can be enforced.
-- **Student product:** Power-and-knowledge map, comparison with Plato, Douglass claim paragraph.
+- **Text:** “What Is Enlightenment?”
+- **Student question:** Do people remain in immaturity because it is comfortable?
+- **Unit function:** Adds the post-1700 challenge: truth requires courage, responsibility, and the willingness to use one's own reason.
+- **Student product:** Enlightenment claim, obstacle map, comparison with Plato's cave and Odysseus's self-binding.
+- **Build status:** Not yet built.
 
-### 5. John Henry Newman — Knowledge Its Own End
+### 6. Friedrich Nietzsche — Truth and Metaphor
 
-- **Text:** *The Idea of a University*, Discourse V, focused passages on liberal knowledge and intellectual cultivation
-- **Student question:** Is education valuable even when it is not immediately useful?
-- **Unit function:** Concludes by defending liberal learning as freedom and formation of mind.
-- **Student product:** Utility vs. liberation comparison, seminar claim, final paper preparation.
+- **Text:** “On Truth and Lies in a Nonmoral Sense”
+- **Student question:** What if some of our “truths” are metaphors we have forgotten are metaphors?
+- **Unit function:** Final complication. Nietzsche does not simply identify another shadow; he challenges students to ask what human beings are doing when they call something true.
+- **Student product:** Final comparison map and essay preparation.
+- **Build status:** Not yet built.
 
 ## Why this order works
 
-The sequence moves from image to diagnosis to interior motive to social power to educational vision.
+The sequence moves from image to literary test to intellectual diagnosis to interior motive to modern responsibility to modern suspicion.
 
-- Plato: We live among shadows.
+- Plato: We may live among shadows and resist painful education.
+- Homer: We may be drawn toward dangerous illusion because it looks beautiful and promises knowledge.
 - Bacon: The mind produces and protects shadows.
 - Augustine: The heart may love shadows.
-- Douglass: Power may force people to remain among shadows.
-- Newman: Education should form a free mind capable of seeing beyond shadows.
+- Kant: Immaturity may be comfortable because thinking for oneself is difficult.
+- Nietzsche: The boundary between truth and human-made illusion may itself be hard to see.
