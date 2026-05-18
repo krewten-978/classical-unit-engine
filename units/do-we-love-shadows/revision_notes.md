@@ -42,6 +42,7 @@ The unit was redesigned so Homer follows Plato as the first literary test case. 
 - Reading 3 was built as `student-packets/03_bacon_four_idols_handout.tex` and compiled to `student-packets/03_bacon_four_idols_handout.pdf`.
 - Reading 4 was built as `student-packets/04_augustine_divided_will_handout.tex` and compiled to `student-packets/04_augustine_divided_will_handout.pdf`.
 - Reading 5 was built as `student-packets/05_kant_enlightenment_courage_handout.tex` and compiled to `student-packets/05_kant_enlightenment_courage_handout.pdf`.
+- Reading 6 was built as `student-packets/06_nietzsche_truth_metaphor_handout.tex` and compiled to `student-packets/06_nietzsche_truth_metaphor_handout.pdf`.
 
 ## Reading 4 Augustine completion
 
@@ -49,13 +50,17 @@ Reading 4 uses a focused modernized excerpt from *Confessions* Book VIII, chapte
 
 ## Legacy cleanup
 
-Legacy packet files from the earlier sequence were removed from the active unit folder so the folder now contains only the current revised readings built so far: Plato, Homer, Bacon, Augustine, and Kant.
+Legacy packet files from the earlier sequence were removed from the active unit folder so the folder now contains only the current revised readings: Plato, Homer, Bacon, Augustine, Kant, and Nietzsche.
 
 ## Remaining production work
 
-- Build Reading 6: Nietzsche, “On Truth and Lies in a Nonmoral Sense”
-- After Reading 6 is built, do a final alignment pass on the argument map, final paper prompt, source notes, teacher guide, and README.
+- Revised six-reading sequence is complete.
+- Optional next step: classroom-facing review pass on PDFs and final paper prompt before printing.
 
 ## Reading 5 Kant completion
 
 Reading 5 was built as `student-packets/05_kant_enlightenment_courage_handout.tex` and compiled to `student-packets/05_kant_enlightenment_courage_handout.pdf`. It uses a focused modernized version of Kant's “What Is Enlightenment?” preserving the definition of enlightenment, the problem of guardians, the distinction between public and private use of reason, and Kant's claim that enlightenment requires freedom. The student tasks ask for an obstacle map, an enlightenment claim, and a handout summary connecting Kant to the previous readings.
+
+## Reading 6 Nietzsche completion
+
+Reading 6 was built as `student-packets/06_nietzsche_truth_metaphor_handout.tex` and compiled to `student-packets/06_nietzsche_truth_metaphor_handout.pdf`. It uses a focused modernized version of Nietzsche's early essay on truth and falsity, preserving the opening fable about clever animals inventing knowledge, the social origin of truth-conventions, language as metaphor, concept formation by flattening differences, and the famous claim that truths are forgotten metaphors. The student tasks ask for a metaphor map, a final comparison claim, and a handout summary connecting Nietzsche back to the unit question.

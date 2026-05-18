@@ -43,9 +43,11 @@ These notes identify the source base for the student-facing adapted readings.
 
 ## Friedrich Nietzsche
 
-- **Work:** “On Truth and Lies in a Nonmoral Sense”
+- **Work:** “On Truth and Lies in a Nonmoral Sense,” also translated in the source edition as “On Truth and Falsity in Their Ultramoral Sense.”
+- **Public-domain translation base:** Maximilian A. Mügge translation in *Early Greek Philosophy and Other Essays*, edited by Oscar Levy, Project Gutenberg eBook 51548.
 - **Use in unit:** Modern complication: what human beings call truth may be metaphor, convention, and image-making forgotten as such.
-- **Student packet mode:** Not yet built. Use focused excerpts with strong vocabulary and context support.
+- **Student packet mode:** Focused modernized version preserving the opening fable, the social origin of truth-conventions, language as metaphor, concept formation, and Nietzsche's claim that truths are forgotten metaphors.
+- **Current packet:** `student-packets/06_nietzsche_truth_metaphor_handout.tex` and `.pdf`.
 
 ## Adaptation principle
 

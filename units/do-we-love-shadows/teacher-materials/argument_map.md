@@ -39,7 +39,7 @@
 - **Assumes:** Better thinking requires diagnosing false images before pursuing truth.
 - **What this view explains well:** Why intelligent people still reason badly.
 - **Possible weakness:** It may understate the role of beauty, desire, sin, and courage.
-- **Best unit companion:** Homer adds seductive beauty; Augustine adds disordered love.
+- **Best unit companion:** Homer adds seductive beauty; Augustine adds disordered love; Nietzsche presses Bacon's language/idol problem further.
 
 ## Augustine — Disordered Love
 
@@ -63,7 +63,7 @@
 - **Assumes:** Human beings are responsible for the use or neglect of their rational powers.
 - **What this view explains well:** Why people may prefer guided comfort to difficult independence.
 - **Possible weakness:** It may understate the power of desire, beauty, habit, and social constraint.
-- **Best unit companion:** Plato's prisoner needs turning; Homer's Odysseus needs restraint before he can safely hear.
+- **Best unit companion:** Plato's prisoner needs turning; Homer's Odysseus needs restraint before he can safely hear; Nietzsche challenges whether inherited concepts themselves may be shadows.
 
 ## Nietzsche — Truth and Metaphor
 
@@ -98,3 +98,8 @@
 ### Position 5: Education must form the whole person
 - Strongest support: Plato, Homer, Augustine, Kant
 - Possible objection: Nietzsche may question whether education can simply lead students from illusion into truth.
+
+
+### Position 6: Truth may be human-made metaphor
+- Strongest support: Nietzsche, Bacon, Plato
+- Possible objection: Plato, Augustine, and Kant all depend on some real distinction between truth and illusion, not only useful metaphor.

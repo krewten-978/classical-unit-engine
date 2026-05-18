@@ -78,7 +78,7 @@ The unit begins with Plato's cave as the controlling philosophical image. Homer 
 - **Problem:** Nietzsche challenges students to ask whether some “truths” are human-made metaphors we have forgotten are metaphors.
 - **Student question:** What if our truths are also made images?
 - **Student product:** Final comparison map and essay preparation.
-- **Status:** Not yet built.
+- **Status:** Built as `student-packets/06_nietzsche_truth_metaphor_handout.pdf`.
 
 ## Suggested Unit Arc
 
@@ -162,8 +162,8 @@ This unit should use short printable documents or coherent excerpts. Avoid assig
 - Bacon: short modernized Four Idols packet.
 - Augustine: selected modernized passages from *Confessions*.
 - Kant: focused modernized version of “What Is Enlightenment?” preserving the definition of enlightenment, guardians, public/private use of reason, and freedom.
-- Nietzsche: focused excerpts from “On Truth and Lies in a Nonmoral Sense,” with careful support.
+- Nietzsche: focused modernized excerpts from “On Truth and Falsity in Their Ultramoral Sense” / “On Truth and Lies in a Nonmoral Sense,” preserving the opening fable, truth as convention, language as metaphor, concept formation, and forgotten metaphors.
 
-## Recommended Next Production Step
+## Current Production Status
 
-Next production step: build Reading 6 Nietzsche, then do a final pass on the argument map and paper prompt.
+The six-reading revised sequence is built. Final support materials now include the Nietzsche complication and remain ready for a last teacher review before classroom use.

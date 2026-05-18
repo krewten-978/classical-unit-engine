@@ -52,7 +52,7 @@
 - **Student question:** What if some of our “truths” are metaphors we have forgotten are metaphors?
 - **Unit function:** Final complication. Nietzsche does not simply identify another shadow; he challenges students to ask what human beings are doing when they call something true.
 - **Student product:** Final comparison map and essay preparation.
-- **Build status:** Not yet built.
+- **Build status:** Complete as `student-packets/06_nietzsche_truth_metaphor_handout.pdf`.
 
 ## Why this order works
 

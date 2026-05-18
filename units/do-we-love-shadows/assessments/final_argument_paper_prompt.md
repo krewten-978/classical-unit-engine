@@ -90,6 +90,7 @@ Return to the question of education: if your answer is true, what should educati
 - Plato and __________ show that education is difficult because __________.
 - Homer shows that shadows are dangerous because __________, while Plato shows that __________.
 - The strongest answer to the unit question comes from __________ because __________.
+- Nietzsche challenges the unit by suggesting that __________.
 
 ## Evidence reminders
 

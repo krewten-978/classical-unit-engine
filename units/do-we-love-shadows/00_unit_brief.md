@@ -44,4 +44,5 @@ Education is not merely the transfer of information. It is the difficult work of
 - Reading 3, Bacon's Four Idols, is built as `.tex` and `.pdf`.
 - Reading 4, Augustine's Divided Will, is built as `.tex` and `.pdf`.
 - Reading 5, Kant on Enlightenment and Courage, is built as `.tex` and `.pdf`.
-- Remaining unbuilt reading: Reading 6 Nietzsche.
+- Reading 6, Nietzsche on Truth and Metaphor, is built as `.tex` and `.pdf`.
+- Revised six-reading sequence is complete.

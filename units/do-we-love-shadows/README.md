@@ -32,6 +32,8 @@ units/do-we-love-shadows/
     04_augustine_divided_will_handout.pdf
     05_kant_enlightenment_courage_handout.tex
     05_kant_enlightenment_courage_handout.pdf
+    06_nietzsche_truth_metaphor_handout.tex
+    06_nietzsche_truth_metaphor_handout.pdf
   assessments/
     final_argument_paper_prompt.md
   source-notes/
@@ -54,6 +56,7 @@ units/do-we-love-shadows/
 - **Reading 3:** Bacon, the Four Idols — `student-packets/03_bacon_four_idols_handout.pdf`
 - **Reading 4:** Augustine, the Divided Will — `student-packets/04_augustine_divided_will_handout.pdf`
 - **Reading 5:** Kant, Enlightenment and Courage — `student-packets/05_kant_enlightenment_courage_handout.pdf`
+- **Reading 6:** Nietzsche, Truth and Metaphor — `student-packets/06_nietzsche_truth_metaphor_handout.pdf`
 
 Legacy packets from the earlier Bacon-Augustine-Douglass-Newman sequence have been removed from this unit folder so the active sequence is clear.
 
@@ -69,4 +72,4 @@ Each student packet includes:
 
 ## Current format
 
-Student readings are built as printable two-column, 12pt LaTeX/PDF handouts. The active revised design now begins with Plato followed by Homer.
+Student readings are built as printable two-column, 12pt LaTeX/PDF handouts. The active revised design runs from Plato and Homer through Bacon, Augustine, Kant, and Nietzsche.
