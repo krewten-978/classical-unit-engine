@@ -96,23 +96,25 @@ This opening unit establishes the method of the course: one central question, a 
    - Early modern counterclaim: freedom may mean acting according to one’s will even if the will has causes.
 6. **David Hume, _An Enquiry Concerning Human Understanding_ Section VIII, liberty and necessity**
    - Post-1700 compatibilist challenge: responsibility may survive causation if freedom is understood correctly.
+7. **Pierre-Simon Laplace, _A Philosophical Essay on Probabilities_ Chapter 1, scientific determinism**
+   - Adds the hard determinist pressure: if every force and position in nature were known, the whole past and future could be calculated.
 
 ### Complementary Major Literature
 - **Sophocles, _Oedipus Rex_** — prophecy, ignorance, agency, and tragic responsibility.
 - **Shakespeare, _Macbeth_ selected scenes** — prophecy, ambition, imagination, and chosen evil.
 
 ### Proposed Final Student Product
-**Socratic seminar synthesis + thesis paragraph:** Is Macbeth more responsible, less responsible, or differently responsible because of prophecy and ambition?
+**Socratic seminar synthesis + thesis paragraph:** Is Macbeth more responsible, less responsible, or differently responsible if prophecy, ambition, imagination, character, and circumstance all shape his actions?
 
 ### Sequence Rationale
-After asking whether we can know truth, students ask whether knowing truth would make us free. This unit deepens their ability to distinguish causes from excuses and prepares them for the next question: if we are responsible, what should we become?
+After asking whether we can know truth, students ask whether knowing truth would make us free. This unit deepens their ability to distinguish causes from excuses, then ends with Laplace's scientific determinist challenge: if nature is a chain of causes, what room remains for freedom, guilt, praise, or blame? The unit prepares them for the next question: if we are responsible, what should we become?
 
 ### Expected CUE Deliverables, High-Level Only
 - Unit brief
-- Reading ladder with 4–6 excerpt targets
-- Handout plan for Aristotle, Cicero, Augustine, Aquinas, Hobbes, and Hume
+- Reading ladder with 5–7 excerpt targets
+- Handout plan for Aristotle, Cicero, Augustine, Aquinas, Hobbes, Hume, and Laplace
 - Literary test case packet for Oedipus and Macbeth
-- Argument map: libertarian, compatibilist, providential, tragic views
+- Argument map: libertarian, compatibilist, providential, tragic, and scientific determinist views
 - Seminar synthesis task and thesis paragraph prompt
 
 ---
