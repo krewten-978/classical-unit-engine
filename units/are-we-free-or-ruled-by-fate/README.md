@@ -15,6 +15,9 @@ Can human beings be morally responsible if our actions are shaped by fate, natur
 1. **Aristotle, _Nicomachean Ethics_ Book III — voluntary and involuntary action**
    - `student-packets/01_aristotle_voluntary_action_handout.tex`
    - `student-packets/01_aristotle_voluntary_action_handout.pdf`
+2. **Cicero, _On Fate_ selected sections — fate, causation, and moral responsibility**
+   - `student-packets/02_cicero_on_fate_handout.tex`
+   - `student-packets/02_cicero_on_fate_handout.pdf`
 
 ## Planned reading ladder
 
