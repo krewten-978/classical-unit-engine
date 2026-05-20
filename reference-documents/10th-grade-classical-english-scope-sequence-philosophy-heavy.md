@@ -132,15 +132,17 @@ After asking whether we can know truth, students ask whether knowing truth would
 ### Philosophy Reading Ladder
 1. **Aristotle, _Nicomachean Ethics_ Book I and Book II selections**
    - Establishes happiness as activity of the soul in accordance with virtue and introduces habit as moral formation.
-2. **Cicero, _On Duties_ Book I selections**
+2. **Herodotus, _Histories_ Book I, Solon and Croesus selections**
+   - Adds a Greek historical test case: Solon refuses to call Croesus truly happy until the whole shape of his life can be judged, forcing students to ask whether greatness depends on wealth, honor, fortune, virtue, or a well-ended life.
+3. **Cicero, _On Duties_ Book I selections**
    - Romanizes virtue through duty, honor, public life, and moral obligation.
-3. **Seneca, _Letters_ 41 or 76 selections**
+4. **Seneca, _Letters_ 41 or 76 selections**
    - Gives a Roman Stoic account of nobility, reason, and inner freedom independent of fortune.
-4. **Augustine, _City of God_ Book XIX selections on peace and ordered love**
+5. **Augustine, _City of God_ Book XIX selections on peace and ordered love**
    - Challenges pagan virtue by asking whether the soul can be rightly ordered without the highest good.
-5. **Michel de Montaigne, “Of Experience” or “That to Study Philosophy Is to Learn to Die” selections**
+6. **Michel de Montaigne, “Of Experience” or “That to Study Philosophy Is to Learn to Die” selections**
    - Early modern personalizes philosophy as self-knowledge, mortality, and disciplined judgment.
-6. **Friedrich Nietzsche, _On the Genealogy of Morals_ Preface/First Essay selections**
+7. **Friedrich Nietzsche, _On the Genealogy of Morals_ Preface/First Essay selections**
    - Post-1700 provocation: are some moral ideals signs of strength, or masks for weakness and resentment?
 
 ### Complementary Major Literature
@@ -155,8 +157,8 @@ This unit builds from responsibility to formation. Students now ask not merely w
 
 ### Expected CUE Deliverables, High-Level Only
 - Unit brief
-- Philosophy ladder with virtue/honor/duty progression
-- Focused excerpt handouts for Aristotle, Cicero, Seneca, Augustine, Montaigne, Nietzsche
+- Philosophy and historical ladder with virtue/honor/duty progression
+- Focused excerpt handouts for Aristotle, Herodotus, Cicero, Seneca, Augustine, Montaigne, Nietzsche
 - Literary comparison packet for Achilles and Aeneas
 - Virtue and greatness argument map
 - Comparative map product prompt
@@ -228,10 +230,12 @@ Having considered truth, freedom, and virtue, students move from the soul to the
    - Roman account of friendship as moral loyalty, public virtue, and tested character.
 4. **Augustine, _Confessions_ Book IV selections on grief and disordered love**
    - Shows love’s power and danger when finite goods are loved as ultimate.
-5. **Thomas Aquinas, _Summa Theologiae_ II–II on charity, selected articles**
-   - Medieval Christian account of love as charity ordered toward God and neighbor.
+5. **Arthur Schopenhauer, “The Metaphysics of Sexual Love” selections**
+   - Replaces Aquinas with a darker modern account: romantic love may feel personal and exalted, but it is driven by the impersonal will-to-life working through desire, attraction, and reproduction.
 6. **Immanuel Kant, _Groundwork_ selections on duty and persons as ends**
    - Post-1700 reframes obligation: persons must never be treated merely as means.
+7. **Modern science essay, such as Harvard Medical School, “Love and the Brain” or “The Science of Love” selections**
+   - Adds a contemporary biological account of love as brain chemistry, reward, attachment, and hormones such as dopamine and oxytocin, giving students a modern reductionist challenge to compare with Plato, Aristotle, Augustine, Schopenhauer, and Kant.
 
 ### Complementary Major Literature
 - **Dante, _Purgatorio_ or _Paradiso_ selected cantos** — love as the force that orders or disorders the soul.
@@ -241,14 +245,14 @@ Having considered truth, freedom, and virtue, students move from the soul to the
 **Comparative seminar claim + written reflection:** Which account of love best protects both truth and loyalty?
 
 ### Sequence Rationale
-After studying the city, students return to the human bonds that make life more than obedience. This unit asks whether love completes justice or conflicts with it, preparing students for suffering, grief, death, and the endurance of meaning.
+After studying the city, students return to the human bonds that make life more than obedience. This unit asks whether love completes justice or conflicts with it, then complicates the question with Schopenhauer’s will-to-life and a modern chemical account of attraction and attachment. These reductions force students to ask whether love is merely biological desire, a chosen moral bond, or something that can still point beyond appetite, preparing them for suffering, grief, death, and the endurance of meaning.
 
 ### Expected CUE Deliverables, High-Level Only
 - Unit brief
-- Love/friendship/charity reading ladder
-- Handout plan for Plato, Aristotle, Cicero, Augustine, Aquinas, Kant
+- Love/friendship/desire/chemistry reading ladder
+- Handout plan for Plato, Aristotle, Cicero, Augustine, Schopenhauer, Kant, and a modern love-as-chemistry essay
 - Dante/Austen literary illumination packet
-- Love and obligation comparison map
+- Love, obligation, and reductionism comparison map
 - Seminar claim and reflection prompt
 
 ---
@@ -320,6 +324,8 @@ The love unit raises the stakes of loss. Here students confront whether philosop
    - Post-1700 critique of progress: civilization may corrupt rather than perfect human beings.
 6. **John Stuart Mill, _On Liberty_ chapter 3 selections on individuality**
    - Post-1700 liberal account of human development through freedom, experiments in living, and individuality.
+7. **C. S. Lewis, _The Abolition of Man_ selections**
+   - Adds a 20th-century challenge to technological progress: if human beings treat morality, nature, and even humanity itself as raw material to be engineered, “man’s conquest of nature” may become the conquest and abolition of man.
 
 ### Complementary Major Literature
 - **Mary Shelley, _Frankenstein_ selected chapters** — knowledge, creation, ambition, responsibility, and human limits.
@@ -329,12 +335,12 @@ The love unit raises the stakes of loss. Here students confront whether philosop
 **Capstone argument paper:** What is the best answer the course has given to the question, “What is a human being for?” Students must use at least three philosophers and one literary work.
 
 ### Sequence Rationale
-The final unit gathers the whole year. Truth, freedom, virtue, law, love, and suffering all converge in the question of human purpose. The year ends not with coverage, but with students entering the classical conversation through a defensible capstone thesis.
+The final unit gathers the whole year. Truth, freedom, virtue, law, love, and suffering all converge in the question of human purpose. Lewis adds a 20th-century warning that progress without a stable account of human nature can turn human beings themselves into raw material for manipulation. The year ends not with coverage, but with students entering the classical conversation through a defensible capstone thesis.
 
 ### Expected CUE Deliverables, High-Level Only
 - Unit brief
 - Human purpose/progress reading ladder
-- Handout plan for Aristotle, Marcus Aurelius, Aquinas, Bacon, Rousseau, Mill
+- Handout plan for Aristotle, Marcus Aurelius, Aquinas, Bacon, Rousseau, Mill, and C. S. Lewis
 - Frankenstein/Tempest literary testing packet
 - Full-year synthesis argument map
 - Capstone paper prompt
@@ -378,7 +384,7 @@ The final unit gathers the whole year. Truth, freedom, virtue, law, love, and su
 - **Roman:** Lucretius, Cicero, Seneca, and Marcus Aurelius appear repeatedly as major voices, not decorations.
 - **Medieval / Christian:** Augustine, Aquinas, Boethius, Dante, and Job keep theological and metaphysical questions central.
 - **Early Modern:** Bacon, Hobbes, Locke, Montaigne, and Pascal show the shift toward method, sovereignty, subjectivity, and modern inquiry.
-- **18th–19th Century and Beyond:** Hume, Kant, Rousseau, Mill, Nietzsche, Austen, and Shelley ensure robust post-1700 presence.
+- **18th–20th Century and Beyond:** Hume, Kant, Rousseau, Mill, Nietzsche, Austen, Shelley, and C. S. Lewis ensure robust post-1700 presence.
 
 ## Literature Balance
 - Major literary works appear throughout: Homer, Sophocles, Virgil, Dante, Shakespeare, Austen, Shelley, and biblical wisdom literature.
