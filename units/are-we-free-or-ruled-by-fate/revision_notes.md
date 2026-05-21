@@ -6,9 +6,10 @@
 - Reading 1, Aristotle on voluntary action, is built as `.tex` and `.pdf`.
 - Reading 2, Cicero on fate and responsibility, is built as `.tex` and `.pdf`.
 - Reading 3, Augustine on free choice and evil, is built as `.tex` and `.pdf`.
-- Teacher guide is built at `teacher-materials/teacher_guide_whole_unit.md`.
-- Active `student-packets` folder currently contains three handout pairs.
+- Reading 4, Aquinas on reason, will, habit, law, and final ends, is built as `.tex` and `.pdf`.
+- Teacher guide is built at `teacher-materials/teacher_guide_whole_unit.md` and updated through Reading 4.
+- Active `student-packets` folder currently contains four handout pairs.
 
 ## Next production work
 
-- Build Reading 4: Thomas Aquinas, _Summa Theologiae_ I--II selected articles on voluntary action, law, habit, and final ends.
+- Build Reading 5: Thomas Hobbes, _Leviathan_ selections on liberty and necessity.

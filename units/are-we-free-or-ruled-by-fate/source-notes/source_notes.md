@@ -28,3 +28,18 @@
 - **Reference translation/check:** Logic Museum page with Latin and Dom Mark Pontifex English reference: https://www.logicmuseum.com/wiki/Authors/Augustine/De_libero_arbitrio/L1
 - **Adaptation mode:** Condensed modernized classroom adaptation. The handout preserves Augustine's major sequence in Book I: evil done vs. evil suffered, evil not truly learned, sin as disordered desire, temporal vs. eternal law, reason ruling desire, good will, happiness, and evil as a voluntary turning from eternal goods to changeable goods.
 - **Unit function:** Adds a Christian and late ancient account of free choice: God is not the cause of moral evil; the will becomes guilty when it turns from higher, lasting goods toward lower, changeable goods.
+
+## Reading 4: Aquinas on Reason, Will, Habit, and Law
+
+- **Student packet:** `student-packets/04_aquinas_reason_will_law_handout.tex`
+- **PDF:** `student-packets/04_aquinas_reason_will_law_handout.pdf`
+- **Source text:** Thomas Aquinas, _Summa Theologiae_, First Part of the Second Part, selected articles from Questions 1, 6, 49, 90, 91, and 94.
+- **Reference sources:**
+  - Q. 1, man's last end: https://www.newadvent.org/summa/2001.htm
+  - Q. 6, the voluntary and involuntary: https://www.newadvent.org/summa/2006.htm
+  - Q. 49, habits in general: https://www.newadvent.org/summa/2049.htm
+  - Q. 90, the essence of law: https://www.newadvent.org/summa/2090.htm
+  - Q. 91, the various kinds of law: https://www.newadvent.org/summa/2091.htm
+  - Q. 94, natural law: https://www.newadvent.org/summa/2094.htm
+- **Adaptation mode:** Condensed modernized classroom adaptation. The handout preserves the unit-relevant sequence: properly human acts proceed from reason and will; human beings act for ends; voluntary action involves an inner principle and knowledge of the end; violence, fear, desire, and ignorance affect responsibility differently; habit stabilizes good or bad action; law is an ordinance of reason for the common good; natural law is rational participation in eternal law.
+- **Unit function:** Adds the medieval synthesis connecting Aristotle's voluntary action and Augustine's ordered will. Aquinas reframes freedom as rational action ordered toward the good, formed by habit and directed by law rather than mere arbitrary choice.

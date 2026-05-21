@@ -25,6 +25,9 @@ Can human beings be morally responsible if our actions are shaped by fate, natur
 3. **Augustine, _On Free Choice of the Will_ Book I selections — free choice, evil, and disordered desire**
    - `student-packets/03_augustine_free_choice_handout.tex`
    - `student-packets/03_augustine_free_choice_handout.pdf`
+4. **Thomas Aquinas, _Summa Theologiae_ I--II selections — reason, will, habit, law, and final ends**
+   - `student-packets/04_aquinas_reason_will_law_handout.tex`
+   - `student-packets/04_aquinas_reason_will_law_handout.pdf`
 
 ## Planned reading ladder
 

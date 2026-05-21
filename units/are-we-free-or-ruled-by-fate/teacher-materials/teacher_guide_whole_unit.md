@@ -14,10 +14,10 @@ Current built student packets:
 1. Aristotle, *Nicomachean Ethics* Book III — voluntary and involuntary action.
 2. Cicero, *On Fate* selected sections — fate, causation, and moral responsibility.
 3. Augustine, *On Free Choice of the Will* Book I selections — free choice, evil, and disordered desire.
+4. Thomas Aquinas, *Summa Theologiae* I--II selections — reason, will, habit, law, and final ends.
 
 Planned remaining student packets:
 
-4. Thomas Aquinas, *Summa Theologiae* I--II selected articles — reason, will, habit, law, and final ends.
 5. Thomas Hobbes, *Leviathan* selections — liberty and necessity.
 6. David Hume, *An Enquiry Concerning Human Understanding* Section VIII — liberty and necessity.
 7. Pierre-Simon Laplace, *A Philosophical Essay on Probabilities* Chapter 1 — scientific determinism.
@@ -100,7 +100,7 @@ The ending movement should put pressure on the whole ladder. Students should ask
 - **Problem:** Students may think freedom means absence of limits. Aquinas gives a stronger account: human action aims at ends, and law/habit can form the will toward or away from its proper good.
 - **Student question:** Is freedom the ability to choose anything, or the ability to choose the good rationally?
 - **Student product:** Reason-will-end map; claim comparing Aquinas with Augustine or Aristotle.
-- **Build status:** Planned next student packet.
+- **Build status:** Complete as `student-packets/04_aquinas_reason_will_law_handout.pdf`.
 
 ### Reading 5: Thomas Hobbes — Liberty and Necessity
 
@@ -252,19 +252,19 @@ Suggested conversion modes:
 - Aristotle: modernized prose from *Nicomachean Ethics* Book III, already complete.
 - Cicero: condensed modernized classroom adaptation from *On Fate*, already complete.
 - Augustine: condensed modernized classroom adaptation from *On Free Choice of the Will* Book I, already complete.
-- Aquinas: selected-question classroom adaptation from *Summa Theologiae* I--II. Keep scholastic structure visible, but do not overload students with every objection and reply.
+- Aquinas: selected-question classroom adaptation from *Summa Theologiae* I--II, already complete. The packet keeps scholastic structure visible without overloading students with every objection and reply.
 - Hobbes: focused excerpt or modernized prose preserving his definitions of liberty, impediment, will, deliberation, and necessity.
 - Hume: focused excerpt or modernized prose preserving his reconciliation of liberty and necessity.
 - Laplace: short faithful/modernized excerpt preserving the image of a calculating intelligence and the pressure it puts on freedom.
 
 ## Production Notes
 
-The next production step is Reading 4: Aquinas. The Aquinas packet should not become a generic summary of Thomism. It should serve the unit question by clarifying:
+The next production step is Reading 5: Hobbes. The Hobbes packet should not become only a political-theory summary. It should serve the unit question by clarifying:
 
-1. human acts as acts proceeding from reason and will;
-2. ends and final happiness;
-3. habit as a stable disposition that shapes action;
-4. law as an ordinance of reason rather than mere external control;
-5. freedom as ordered toward the good rather than mere arbitrary choice.
+1. liberty as the absence of external impediments;
+2. deliberation as the alternating sequence of appetites and aversions;
+3. will as the last appetite in deliberation;
+4. necessity as compatible with voluntary action;
+5. how Hobbes's account challenges Aristotle, Augustine, and Aquinas on whether freedom requires ordered reason and the good.
 
-After the Aquinas packet is built, update this teacher guide's build-status line, the unit README, the unit brief, source notes, and revision notes so the active packet count and next reading remain synchronized.
+After the Hobbes packet is built, update this teacher guide's build-status line, the unit README, the unit brief, source notes, and revision notes so the active packet count and next reading remain synchronized.
