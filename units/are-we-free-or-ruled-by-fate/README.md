@@ -18,6 +18,9 @@ Can human beings be morally responsible if our actions are shaped by fate, natur
 2. **Cicero, _On Fate_ selected sections — fate, causation, and moral responsibility**
    - `student-packets/02_cicero_on_fate_handout.tex`
    - `student-packets/02_cicero_on_fate_handout.pdf`
+3. **Augustine, _On Free Choice of the Will_ Book I selections — free choice, evil, and disordered desire**
+   - `student-packets/03_augustine_free_choice_handout.tex`
+   - `student-packets/03_augustine_free_choice_handout.pdf`
 
 ## Planned reading ladder
 
