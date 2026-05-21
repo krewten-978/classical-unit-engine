@@ -10,6 +10,10 @@ This CUE unit is being built from the archived philosophy-heavy 10th-grade scope
 
 Can human beings be morally responsible if our actions are shaped by fate, nature, causes, or desire?
 
+## Current teacher materials
+
+- `teacher-materials/teacher_guide_whole_unit.md` — teacher-facing unit arc, reading ladder notes, literary test cases, student work sequence, assessment direction, and production notes.
+
 ## Current student packets
 
 1. **Aristotle, _Nicomachean Ethics_ Book III — voluntary and involuntary action**

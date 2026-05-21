@@ -6,6 +6,7 @@
 - Reading 1, Aristotle on voluntary action, is built as `.tex` and `.pdf`.
 - Reading 2, Cicero on fate and responsibility, is built as `.tex` and `.pdf`.
 - Reading 3, Augustine on free choice and evil, is built as `.tex` and `.pdf`.
+- Teacher guide is built at `teacher-materials/teacher_guide_whole_unit.md`.
 - Active `student-packets` folder currently contains three handout pairs.
 
 ## Next production work
